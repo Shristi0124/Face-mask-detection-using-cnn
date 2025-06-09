@@ -127,7 +127,7 @@ python detect_mask_webcam.py
 **Shristi**
 📍 Dehradun, Uttarakhand
 📧 [shristishristi59@gmail.com](mailto:shristishristi59@gmail.com)
-🔗 [LinkedIn](https://github.com/Shristi0124) | [GitHub](https://github.com/Shristi0124)
+🔗 [LinkedIn](https://www.linkedin.com/in/shristi-51826b249/) | [GitHub](https://github.com/Shristi0124)
 
 ---
 
